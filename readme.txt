@@ -46,8 +46,8 @@ Wordpress Live Support, a Powerful, Simple and Flexible WordPress Support. Start
 * CHANGED: First release
  
  
-== Frequently Asked Questions ==
-Go to [http://wordpress.org/plugins/wp-live-support/)
+== Frequently Asked Questions == 
+[Read more](http://wordpress.org/plugins/wp-live-support/) about with this plugin! 
  
 == Screenshots == 
 1. Wordpress Live Support
