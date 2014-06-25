@@ -2,7 +2,7 @@
 /*
 	Plugin Name: WordPress Live Support
 	Description: WP Live Support, your Powerful, Simple and Flexible WordPress Live Support. Use WP Live Support to Chats Live with our WP experts.
-	Plugin URI: http://wordpress.org/extend/plugins/wordpress-live-support/
+	Plugin URI: http://wordpress.org/extend/plugins/wp-live-support/
 	Version: 1.0
 	Author: Bassem Rabia
 	Author URI: mailto:bassem.rabia@hotmail.co.uk
