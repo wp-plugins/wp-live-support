@@ -1,4 +1,4 @@
-=== WP Live Support ===
+=== Wordpress Live Support ===
 Contributors: djerba
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CGLA4VEY6S3ME
 Tags:  Wordpress Live Support, live chat, livechat, live chat, live support, online support, help desk, helpdesk, live support, customer service, plugin, chat
