@@ -18,19 +18,20 @@ Wordpress Live Support, a Powerful, Simple and Flexible WordPress Support. Start
 <h4>Features</h4> 
 * Realtime Live Support
 * Users Roles Settings
-* No special knowledge skills
-* Multiple languages Support 
+* Multiple Domains
+* No Steup Fees
 * Lowest price & high quality 
+* Multiple languages Support 
 * No minimum contract or setup fees   
 
 <h4>How Wordpress Live Support is working?</h4>
-* Purchase your best plan for your budget and needs
-* Expect an email from us to activate your plugin via our easy and simple administration form
-* Your plugin will start sending 'YOUR LICENCE & YOUR EMAIL & YOUR BLOG NAME' to our agents so we can offer you the best of our knowledge
+* Purchase your best plan for your budget and needs.
+* Expect an email from us to activate your plugin via our easy and simple administration form.
+* Your plugin will start sending <strong>YOUR LICENCE, YOUR EMAIL and YOUR BLOG NAME</strong> to our agents so we can offer you the best of our knowledges.
 * We are using Zopim (http://bit.ly/1wyj1cc) as live chat platform to offer you the best service, <strong>YOU DON'T NEED</strong> to create an account on.
 
 <h4>Your Privacy</h4>
-* "WE DO NOT SELL, RENT, OR OTHERWISE" your personal informations that we collect to any third party without your permission 
+* <strong>WE DO NOT SELL, RENT, OR OTHERWISE</strong> your personal informations that we collect to any third party without your permission.
 * If you have any questions about our Privacy, please contact us.
 
 == Installation == 
