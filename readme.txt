@@ -27,7 +27,7 @@ Wordpress Live Support, a Powerful, Simple and Flexible WordPress Support. Start
 * Purchase your best plan for your budget and needs
 * Expect an email from us to activate your plugin via our easy and simple administration form
 * Your plugin will start sending 'YOUR LICENCE & YOUR EMAIL & YOUR BLOG NAME' to our agents so we can offer you the best of our knowledge
-* We are using (https://www.zopim.com/) as live chat platform to offer you the best service, <strong>YOU DON'T NEED</strong> to create an account on.
+* We are using Zopim (http://bit.ly/1wyj1cc) as live chat platform to offer you the best service, <strong>YOU DON'T NEED</strong> to create an account on.
 
 <h4>Your Privacy</h4>
 * "WE DO NOT SELL, RENT, OR OTHERWISE" your personal informations that we collect to any third party without your permission 
