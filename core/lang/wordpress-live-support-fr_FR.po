@@ -1,103 +1,91 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WordPress Live Support\n"
-"POT-Creation-Date: 2014-06-25 21:05+0200\n"
-"PO-Revision-Date: 2014-06-25 21:41+0200\n"
+"POT-Creation-Date: 2015-01-12 21:31+0200\n"
+"PO-Revision-Date: 2015-01-12 21:32+0200\n"
 "Last-Translator: \n"
 "Language-Team: Bassem Rabia <bassem.rabia@hotmail.co.uk>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.5\n"
+"X-Generator: Poedit 1.7.3\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Poedit-SearchPath-0: C:\\Program Files (x86)\\wamp\\www\\wp\\FR\\wp-content"
+"X-Poedit-SearchPath-0: C:\\Program Files (x86)\\wamp\\www\\WpDemo\\wp-content"
 "\\plugins\\wp-live-support\n"
 
 #: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:68
+#: (x86)\wamp\www\WpDemo\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:67
 msgid "My Account"
 msgstr "Mon compte"
 
 #: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:69
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:209
+#: (x86)\wamp\www\WpDemo\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:68
 msgid "Configure"
 msgstr "Configurer"
 
 #: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:183
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:208
+#: (x86)\wamp\www\WpDemo\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:162
+#: (x86)\wamp\www\WpDemo\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:186
 msgid "Purchase"
 msgstr "Commander"
 
 #: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:188
+#: (x86)\wamp\www\WpDemo\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:166
 msgid "Submit"
 msgstr "Envoyer"
 
 #: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:193
+#: (x86)\wamp\www\WpDemo\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:171
 msgid "Support remain time"
 msgstr "Temps écoulé"
 
 #: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:204
+#: (x86)\wamp\www\WpDemo\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:182
 msgid "User Guide"
 msgstr "Guide d'utilisation"
 
 #: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:207
+#: (x86)\wamp\www\WpDemo\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:185
 msgid "Install"
 msgstr "Installer"
 
 #: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:210
-msgid "Enjoy"
-msgstr "Utiliser"
+#: (x86)\wamp\www\WpDemo\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:187
+msgid "Ask for Support"
+msgstr "Demander de l'aide"
 
 #: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:218
-msgid "Capability declarations"
-msgstr "Droit d'usage"
-
-#: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:219
+#: (x86)\wamp\www\WpDemo\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:195
 msgid "About us"
 msgstr "A propos de nous"
 
-#: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:226
-msgid "Account activation steps"
-msgstr "Étapes d'activation du compte"
+#~ msgid "Enjoy"
+#~ msgstr "Utiliser"
 
-#: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:228
-msgid "Select your plan"
-msgstr "Choisissez votre plan"
+#~ msgid "Capability declarations"
+#~ msgstr "Droit d'usage"
 
-#: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:229
-msgid "Payment via paypal"
-msgstr "Payez par paypal"
+#~ msgid "Account activation steps"
+#~ msgstr "Étapes d'activation du compte"
 
-#: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:230
-msgid "Expect an email from us to activate your plugin"
-msgstr "Attendez un email de notre part pour activer votre plugin"
+#~ msgid "Select your plan"
+#~ msgstr "Choisissez votre plan"
 
-#: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:234
-msgid "can be used by"
-msgstr "Droit d'usage"
+#~ msgid "Payment via paypal"
+#~ msgstr "Payez par paypal"
 
-#: C:\Program Files
-#: (x86)\wamp\www\wp\FR\wp-content\plugins\wp-live-support/core/wordpress-live-support.php:269
-msgid "Do you face some problems?"
-msgstr "Vous rencontrez des problèmes?"
+#~ msgid "Expect an email from us to activate your plugin"
+#~ msgstr "Attendez un email de notre part pour activer votre plugin"
+
+#~ msgid "can be used by"
+#~ msgstr "Droit d'usage"
+
+#~ msgid "Do you face some problems?"
+#~ msgstr "Vous rencontrez des problèmes?"
 
 #~ msgid "Do you like this plugin?"
 #~ msgstr "Aimez-vous ce plugin?"
